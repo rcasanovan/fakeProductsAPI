@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chicken Sandwich",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/chicken-sandwich.jpg",
+      "price": 7.99,
+      "inventory": 20
+    },
+    {
+      "id": 2,
+      "name": "Vegetarian Wrap",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/vegetarian-wrap.jpg",
+      "price": 6.49,
+      "inventory": 18
+    },
+    {
+      "id": 3,
+      "name": "Fruit Salad",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/fruit-salad.jpg",
+      "price": 4.99,
+      "inventory": 12
+    },
+    {
+      "id": 4,
+      "name": "Cheese & Crackers",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/cheese-crackers.jpg",
+      "price": 5.50,
+      "inventory": 15
+    },
+    {
+      "id": 5,
+      "name": "Sparkling Water",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/sparkling-water.jpg",
+      "price": 2.25,
+      "inventory": 30
+    },
+    {
+      "id": 6,
+      "name": "Coffee",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/coffee.jpg",
+      "price": 2.00,
+      "inventory": 50
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Bar",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/chocolate-bar.jpg",
+      "price": 1.75,
+      "inventory": 40
+    },
+    {
+      "id": 8,
+      "name": "Muffin",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/muffin.jpg",
+      "price": 2.50,
+      "inventory": 22
+    },
+    {
+      "id": 9,
+      "name": "Orange Juice",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/orange-juice.jpg",
+      "price": 3.00,
+      "inventory": 28
+    },
+    {
+      "id": 10,
+      "name": "Turkey Club Sandwich",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/turkey-club.jpg",
+      "price": 8.50,
+      "inventory": 10
+    },
+    {
+      "id": 11,
+      "name": "Greek Yogurt",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/greek-yogurt.jpg",
+      "price": 3.75,
+      "inventory": 16
+    },
+    {
+      "id": 12,
+      "name": "Granola Bar",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/granola-bar.jpg",
+      "price": 1.95,
+      "inventory": 35
+    },
+    {
+      "id": 13,
+      "name": "Mini Pizza",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/mini-pizza.jpg",
+      "price": 6.75,
+      "inventory": 14
+    },
+    {
+      "id": 14,
+      "name": "Pasta Salad",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/pasta-salad.jpg",
+      "price": 5.25,
+      "inventory": 19
+    },
+    {
+      "id": 15,
+      "name": "Beef Jerky",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/beef-jerky.jpg",
+      "price": 4.50,
+      "inventory": 20
+    },
+    {
+      "id": 16,
+      "name": "Soft Drink",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/soft-drink.jpg",
+      "price": 2.75,
+      "inventory": 30
+    },
+    {
+      "id": 17,
+      "name": "Cup Noodles",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/cup-noodles.jpg",
+      "price": 3.25,
+      "inventory": 18
+    },
+    {
+      "id": 18,
+      "name": "Chocolate Chip Cookie",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/cookie.jpg",
+      "price": 1.80,
+      "inventory": 45
+    },
+    {
+      "id": 19,
+      "name": "Peanuts",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/peanuts.jpg",
+      "price": 1.50,
+      "inventory": 40
+    },
+    {
+      "id": 20,
+      "name": "Energy Drink",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/energy-drink.jpg",
+      "price": 3.99,
+      "inventory": 25
+    }
+  ]
+}
