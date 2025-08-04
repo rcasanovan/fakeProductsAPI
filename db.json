@@ -5,140 +5,160 @@
       "name": "Chicken Sandwich",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/chickenSandwich.jpg",
       "price": 7.99,
-      "inventory": 20
+      "inventory": 20,
+      "type": "food"
     },
     {
       "id": 2,
       "name": "Vegetarian Wrap",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/vegetarianWrap.jpg",
       "price": 6.49,
-      "inventory": 18
+      "inventory": 18,
+      "type": "food"
     },
     {
       "id": 3,
       "name": "Fruit Salad",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/fruitSalad.jpg",
       "price": 4.99,
-      "inventory": 12
+      "inventory": 12,
+      "type": "food"
     },
     {
       "id": 4,
       "name": "Cheese & Crackers",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/cheeseCrackers.jpg",
-      "price": 5.50,
-      "inventory": 15
+      "price": 5.5,
+      "inventory": 15,
+      "type": "other"
     },
     {
       "id": 5,
       "name": "Sparkling Water",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/sparklingWater.jpg",
       "price": 2.25,
-      "inventory": 30
+      "inventory": 30,
+      "type": "drink"
     },
     {
       "id": 6,
       "name": "Coffee",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/coffee.jpg",
-      "price": 2.00,
-      "inventory": 50
+      "price": 2.0,
+      "inventory": 50,
+      "type": "drink"
     },
     {
       "id": 7,
       "name": "Chocolate Bar",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/chocolateBar.jpg",
       "price": 1.75,
-      "inventory": 40
+      "inventory": 40,
+      "type": "dessert"
     },
     {
       "id": 8,
       "name": "Muffin",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/muffin.jpg",
-      "price": 2.50,
-      "inventory": 22
+      "price": 2.5,
+      "inventory": 22,
+      "type": "dessert"
     },
     {
       "id": 9,
       "name": "Orange Juice",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/orangeJuice.jpg",
-      "price": 3.00,
-      "inventory": 28
+      "price": 3.0,
+      "inventory": 28,
+      "type": "drink"
     },
     {
       "id": 10,
       "name": "Turkey Club Sandwich",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/turkeyClubSandwich.jpg",
-      "price": 8.50,
-      "inventory": 10
+      "price": 8.5,
+      "inventory": 10,
+      "type": "food"
     },
     {
       "id": 11,
       "name": "Greek Yogurt",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/greekYogurt.jpg",
       "price": 3.75,
-      "inventory": 16
+      "inventory": 16,
+      "type": "dessert"
     },
     {
       "id": 12,
       "name": "Granola Bar",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/granolaBar.jpg",
       "price": 1.95,
-      "inventory": 35
+      "inventory": 35,
+      "type": "snack"
     },
     {
       "id": 13,
       "name": "Mini Pizza",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/miniPizza.jpg",
       "price": 6.75,
-      "inventory": 14
+      "inventory": 14,
+      "type": "food"
     },
     {
       "id": 14,
       "name": "Pasta Salad",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/pastaSalad.jpg",
       "price": 5.25,
-      "inventory": 19
+      "inventory": 19,
+      "type": "food"
     },
     {
       "id": 15,
       "name": "Beef Jerky",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/beefJerky.jpg",
-      "price": 4.50,
-      "inventory": 20
+      "price": 4.5,
+      "inventory": 20,
+      "type": "food"
     },
     {
       "id": 16,
       "name": "Soft Drink",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/softDrink.jpg",
       "price": 2.75,
-      "inventory": 30
+      "inventory": 30,
+      "type": "drink"
     },
     {
       "id": 17,
       "name": "Cup Noodles",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/cupNoodles.jpg",
       "price": 3.25,
-      "inventory": 18
+      "inventory": 18,
+      "type": "food"
     },
     {
       "id": 18,
       "name": "Chocolate Chip Cookie",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/chocolateChipCookies.jpg",
-      "price": 1.80,
-      "inventory": 45
+      "price": 1.8,
+      "inventory": 45,
+      "type": "dessert"
     },
     {
       "id": 19,
       "name": "Peanuts",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/peanuts.jpg",
-      "price": 1.50,
-      "inventory": 40
+      "price": 1.5,
+      "inventory": 40,
+      "type": "snack"
     },
     {
       "id": 20,
       "name": "Energy Drink",
       "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/energyDrink.jpg",
       "price": 3.99,
-      "inventory": 25
+      "inventory": 25,
+      "type": "drink"
     }
   ]
 }
