@@ -10,7 +10,7 @@
     {
       "id": 2,
       "name": "Vegetarian Wrap",
-      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/vegetarian-wrap.jpg",
+      "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/vegetarianWrap.jpg",
       "price": 6.49,
       "inventory": 18
     },
