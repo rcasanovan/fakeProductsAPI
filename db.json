@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Chicken Sandwich",
-      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/chicken-sandwich.jpg",
+      "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/chickenSandwich.jpg",
       "price": 7.99,
       "inventory": 20
     },
