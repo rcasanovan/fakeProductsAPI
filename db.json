@@ -45,7 +45,7 @@
     {
       "id": 7,
       "name": "Chocolate Bar",
-      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/chocolate-bar.jpg",
+      "image": "https://raw.githubusercontent.com/rcasanovan/fakeProductsAPI/main/Images/chocolate-bar.jpg",
       "price": 1.75,
       "inventory": 40
     },
