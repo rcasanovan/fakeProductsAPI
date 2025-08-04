@@ -17,21 +17,21 @@
     {
       "id": 3,
       "name": "Fruit Salad",
-      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/fruit-salad.jpg",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/fruitSalad.jpg",
       "price": 4.99,
       "inventory": 12
     },
     {
       "id": 4,
       "name": "Cheese & Crackers",
-      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/cheese-crackers.jpg",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/cheeseCrackers.jpg",
       "price": 5.50,
       "inventory": 15
     },
     {
       "id": 5,
       "name": "Sparkling Water",
-      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/sparkling-water.jpg",
+      "image": "https://raw.githubusercontent.com/ricardocasanova/airfood-api/main/images/sparklingWater.jpg",
       "price": 2.25,
       "inventory": 30
     },
