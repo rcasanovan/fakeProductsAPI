@@ -160,5 +160,10 @@
       "inventory": 25,
       "type": "drink"
     }
-  ]
+  ],
+  "paymentResponse": {
+    "success": true,
+    "message": "Payment processed successfully",
+    "transactionId": "TXN-123456"
+  }
 }
